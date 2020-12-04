@@ -4,8 +4,8 @@ __Problem statement__
 
 Given a rectangular path in the form of a binary matrix:
 
-Problem 1. Find the length of the longest possible path from a given cell
-Problem 2. Find the length of the longest possible route between two given cells.
+* Problem 1. Find the length of the longest possible path from a given cell
+* Problem 2. Find the length of the longest possible route between two given cells.
 
 No cycles allowed.
 Allowed moves: left, up, right, down.
