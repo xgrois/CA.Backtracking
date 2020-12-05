@@ -6,26 +6,31 @@ Given a sudoku initial state, solve it.
 
 __Difficulty in literature__
 
-This problem is considered Easy in literature.
+This problem is considered Medium in literature.
 
 __Runtime Complexity__
 
 Backtracking needs to explore all possible combinations so it is a brute force algorithm and the complexity grows exponentially
 with the matrix size.
 
+A Sudoku can be constructed to work against backtracking. 
+Assuming the solver works from top to bottom (as in the animation), a puzzle with few clues (17), 
+no clues in the top row, and has a solution "987654321" for the first row, would work in opposition to the algorithm. 
+Thus the program would spend significant time "counting" upward before it arrives at the grid which satisfies the puzzle.
+
+This is one example:
+![Alt text](/SudokuSolver/bad_sudoku.png?raw=true "BadSudokuBacktracking")
+
 __Space Complexity__
 
-Just two equal sized matrices.
+The original matrix 9x9
 
 __References__
 
-[[1]](https://www.techiedelight.com/find-longest-possible-route-matrix/) Find Longest Possible Route in a Matrix, Techiedelight.
+[[1]](https://es.wikipedia.org/wiki/Sudoku) Sudoku, Wikipedia.
+[[2]](https://www.sudoku-online.org/) Sudoku game online.
 
-## Examples
+## Output
 
-![Alt text](/FindLongestPossibleRouteInMatrix/longest_path_example.JPG?raw=true "Example01")
-
-![Alt text](/FindLongestPossibleRouteInMatrix/longest_route_example.JPG?raw=true "Example02")
-
-![Alt text](/FindLongestPossibleRouteInMatrix/output.JPG?raw=true "Output")
+![Alt text](/SudokuSolver/output.JPG?raw=true "Output")
 
