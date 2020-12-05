@@ -22,6 +22,8 @@ This is one example:
 
 <img src="/SudokuSolver/bad_sudoku.png" alt="drawing" width="200"/>
 
+Anyway, this can be easily overcomed by adding some initial logic that "guess" where to start (top-down or down-top), e.g., start down-top if first row has less initial values than the last row.
+
 __Space Complexity__
 
 The original matrix 9x9
