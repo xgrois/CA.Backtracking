@@ -19,7 +19,8 @@ no clues in the top row, and has a solution "987654321" for the first row, would
 Thus the program would spend significant time "counting" upward before it arrives at the grid which satisfies the puzzle.
 
 This is one example:
-![Alt text](/SudokuSolver/bad_sudoku.png?raw=true "BadSudokuBacktracking")
+
+<img src="/SudokuSolver/bad_sudoku.png" alt="drawing" width="200"/>
 
 __Space Complexity__
 
@@ -28,6 +29,7 @@ The original matrix 9x9
 __References__
 
 [[1]](https://es.wikipedia.org/wiki/Sudoku) Sudoku, Wikipedia.
+
 [[2]](https://www.sudoku-online.org/) Sudoku game online.
 
 ## Output
