@@ -2,7 +2,7 @@
 
 __Problem statement__
 
-<img src="/FindShortestPathInAMaze/problem.JPG" alt="drawing" width="400"/>
+<img src="/FindShortestPathInAMaze/problem.JPG" alt="drawing" width="800"/>
 
 __Difficulty in literature__
 
@@ -14,5 +14,5 @@ __References__
 
 ## Output
 
-<img src="/FindPathBetweenVerticesDirectedGraph/output.JPG" alt="drawing" width="200"/>
+<img src="/FindPathBetweenVerticesDirectedGraph/output.JPG" alt="drawing" width="800"/>
 
