@@ -8,7 +8,7 @@ Practising Backtracking (BCKT).
 
 [[2]](/SudokuSolver) Sudoku solver.
 
-
+[[3]](/FindPathBetweenVerticesDirectedGraph) Find path between vertices directed graph.
 
 
 ## Language
