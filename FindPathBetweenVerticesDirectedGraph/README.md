@@ -16,7 +16,7 @@ __References__
 
 ## Output
 
-<img src="/FindPathBetweenVerticesDirectedGraph/graph.JPG" alt="drawing" width="200"/>
+<img src="/FindPathBetweenVerticesDirectedGraph/graph.JPG" alt="drawing" width="300"/>
 
-<img src="/FindPathBetweenVerticesDirectedGraph/output.JPG" alt="drawing" width="200"/>
+<img src="/FindPathBetweenVerticesDirectedGraph/output.JPG" alt="drawing" width="800"/>
 
