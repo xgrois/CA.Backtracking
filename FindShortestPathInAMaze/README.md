@@ -14,5 +14,5 @@ __References__
 
 ## Output
 
-<img src="/FindPathBetweenVerticesDirectedGraph/output.JPG" alt="drawing" width="800"/>
+<img src="/FindShortestPathInAMaze/output.JPG" alt="drawing" width="800"/>
 
