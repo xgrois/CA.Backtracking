@@ -10,6 +10,9 @@ Practising Backtracking (BCKT).
 
 [[3]](/FindPathBetweenVerticesDirectedGraph) Find path between vertices directed graph.
 
+[[4]](/FindShortestPathInAMaze) Find shortest path length in a maze.
+
+
 
 ## Language
 C#
